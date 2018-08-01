@@ -1,0 +1,10 @@
+node_modules
+*.exe
+*.dll
+bin
+obj
+.orig
+*.jpg
+*.gif
+*.jpeg
+build
